@@ -8,7 +8,6 @@ Welcome to the UKPA's Internal Documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    information-for-trustees
 
