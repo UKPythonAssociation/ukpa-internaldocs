@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to UKPA Internal Documentation's documentation!
-=======================================================
+Welcome to the UKPA's Internal Documentation
+============================================
 
 .. toctree::
    :maxdepth: 2
