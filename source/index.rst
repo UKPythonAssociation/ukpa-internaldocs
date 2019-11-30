@@ -6,6 +6,12 @@
 Welcome to the UKPA's Internal Documentation
 ============================================
 
+Internal documentation, policies, and decisions, of `the UK Python Association <https://uk.python.org/>`_.
+
+This is information we want public for reasons of transparency and convenience,
+but probably isn't of broad general interest.
+Anything we'd like to publicise or announce belongs on our main website.
+
 .. toctree::
    :maxdepth: 2
 
