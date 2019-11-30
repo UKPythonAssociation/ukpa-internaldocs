@@ -10,6 +10,8 @@ Welcome to UKPA Internal Documentation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   information-for-trustees
+
 
 
 Indices and tables
