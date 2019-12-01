@@ -34,5 +34,5 @@ will be used when relevant.
 Claims procedure
 ----------------
 
-Claims and associated documentation should be sent to the treasure of the UKPA,
-no later than 3 months afterr being incurred.
+Claims and associated documentation should be sent to the treasurer of the UKPA,
+no later than 3 months after being incurred.
