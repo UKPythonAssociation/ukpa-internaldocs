@@ -1,7 +1,7 @@
 Financial Assistance for PyCon UK
 =================================
 
-The goals of the Financial Assistance programme is to improve the quality of
+The goal of the Financial Assistance programme is to improve the quality of
 PyCon UK by:
 
 1. Increasing the diversity of the attendees.
