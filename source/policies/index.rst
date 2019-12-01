@@ -4,4 +4,4 @@ Policies
 .. toctree::
 
    john-pinner-award
-   financial-assistance
+   financial-assistance-for-pyconuk
