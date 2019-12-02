@@ -30,7 +30,7 @@ Application Process
    Anyone who wishes to become a UKPA member but is unable to attend the annual PyCon UK
    conference should contact the trustees via email.
    
-   Please note that the trustees will refuse an such applications from:
+   Please note that the trustees will refuse any such applications from:
 
    - A corporate body
    - An individual or corporate body representing an organisation which is not incorporated
