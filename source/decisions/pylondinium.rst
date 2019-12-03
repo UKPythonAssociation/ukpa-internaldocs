@@ -1,0 +1,34 @@
+Response to PyLondinium Support Request
+=======================================
+
+Request
+-------
+The organisers of the PyLondinium conference contacted the UKPA trustees to request support for their event.
+
+Specifically, the organisers suggested that the UKPA could use its incorporated status to become party to contract associated with the event. This would assist, for example, in the booking of the venue, the provision of insurance, the sale of tickets and the purchase of various items.
+
+In addition, the organisers also requested some assistance with the necessary accounting effort for the event.
+
+Discussion
+----------
+In principle, the trustees felt that this type of support is precisely what the UKPA was formed to do.
+
+However, two concerns were expressed and debated at length:
+
+* We are at the very early stages of our own operational maturity (e.g.UKPA Trading Ltd. is not yet fully operational and capable of taking over from PyCon UK Society Ltd.).
+* We have very limited volunteer resources 
+
+Decision
+--------
+The trustees decided that the UKPA would support PyLondinium in the manner requested subject to a number of conditions:
+
+* That the PyLondinium organisers provide a revised financial forecast for the 2020 event taking into account this change of circumstance
+* That the UKPA trustees are satisfied with the forecast described above
+* That the PyLondinium organisers are responsible for the effort involved in complying with the co-hosting agreement for their venue
+* That PyLondinium 2020 is a diverse and inclusive event in accordance with the PSF standards for a PyCon
+* That the UKPA board of trustees holds the power of veto over any item in the event schedule.
+* That PyLondinium tickets sales are handled from within the UKPA's 'Pretix' system
+* That the UKPA trustees are kept updated with status, progress and significant decisions, incidents and events including a brief monthly reports
+* That the PyLondinium organisers publicise the involvement and support of the UKPA 
+
+The trustees also decided that, with regret, it would not be possible to organise a financial assistance programme for the 2020 event but noted that no such programme appeared to have been in place for previous years.
