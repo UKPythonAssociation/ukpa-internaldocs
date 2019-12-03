@@ -17,6 +17,7 @@ Anything we'd like to publicise or announce belongs on our main website.
 
    information-for-trustees
    policies/index
+   meetings/index
 
 
 
