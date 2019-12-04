@@ -15,7 +15,7 @@ In principle, the trustees felt that this type of support is precisely what the 
 
 However, two concerns were expressed and debated at length:
 
-* We are at the very early stages of our own operational maturity (e.g.UKPA Trading Ltd. is not yet fully operational and capable of taking over from PyCon UK Society Ltd.).
+* We are at the very early stages of our own operational maturity (e.g. UKPA Trading Ltd. is not yet fully operational and capable of taking over from PyCon UK Society Ltd.).
 * We have very limited volunteer resources 
 
 Decision
@@ -31,4 +31,4 @@ The trustees decided that the UKPA would support PyLondinium in the manner reque
 * That the UKPA trustees are kept updated with status, progress and significant decisions, incidents and events including a brief monthly reports
 * That the PyLondinium organisers publicise the involvement and support of the UKPA 
 
-The trustees also decided that, with regret, it would not be possible to organise a financial assistance programme for the 2020 event but noted that no such programme appeared to have been in place for previous years.
+One topic considered was a Financial Assistance programme. This is one of the most resource-intensive parts of PyCon UK in terms of administrative effort and the trustees decided that, with regret, it would not be possible to organise one for PyLondinium 2020, but noted that no such programme appeared to have been in place for previous years.
