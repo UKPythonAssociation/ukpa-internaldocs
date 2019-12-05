@@ -3,5 +3,5 @@ Decisions
 
 .. toctree::
 
-   pylondinium
    ukpatl-deeds
+   pylondinium
