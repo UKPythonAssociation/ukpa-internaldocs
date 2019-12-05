@@ -3,7 +3,7 @@ Resolution to Sign UKPA Trading Ltd Deeds
 
 Background
 ----------
-UKPA Trading Ltd (UKPATL) is a company limited by shares registered in England and Wales (`company number 12254310<https://beta.companieshouse.gov.uk/company/12254310>`_). Its shares are 100% owned by UKPA.
+UKPA Trading Ltd (UKPATL) is a company limited by shares registered in England and Wales (`company number 12254310 <https://beta.companieshouse.gov.uk/company/12254310>`_). Its shares are 100% owned by UKPA.
 
 Although UKPATL is wholly owned by UKPA, it is an independent body and free to act as its directors see fit.
 
