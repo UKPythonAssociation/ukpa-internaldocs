@@ -4,7 +4,7 @@ Held at City Hall, Cardiff during PyCon UK 2018
 
 Trustees Present
 ----------------
-Owen Campbell, Kristian Glass, Peter Inglesby, Krik Northrop, Chloe Parkes, Daniele Procida
+Owen Campbell, Kristian Glass, Peter Inglesby, Kirk Northrop, Chloe Parkes, Daniele Procida
 
 Report
 ------
@@ -24,7 +24,7 @@ Two situations have arisen whereby the restrictions of this object have proven p
 * A member had been invited to speak at an overseas PyCon event and enquired whether UKPA funding might be available
 * A member wished to support an overseas PyCon event and enquired whether a donation to the UKPA could be used to do so.
 
-The trustees considered both enquiries to be worthy of UKPA support but they fell outwith activities permitted by the current object. The trustees therefore proposed to change the charitable objects of the UKPA (subject to agreement with the Charity Conmmission) to:
+The trustees considered both enquiries to be worthy of UKPA support but they fell outwith activities permitted by the current object. The trustees therefore proposed to change the charitable objects of the UKPA (subject to agreement with the Charity Commission) to:
 
    To advance education for the public benefit in the use and understanding of the Python programming language within the UK
    
