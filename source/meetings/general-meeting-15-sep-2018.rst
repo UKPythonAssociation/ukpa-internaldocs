@@ -1,6 +1,7 @@
 General Meeting 17:00 15-Sep-2018
 =================================
 Held at City Hall, Cardiff during PyCon UK 2018
+A video of the meeting is available on the `PyCon UK YouTube Channel <https://www.youtube.com/watch?v=TFdnGcnP_5M>`_.
 
 Trustees Present
 ----------------
