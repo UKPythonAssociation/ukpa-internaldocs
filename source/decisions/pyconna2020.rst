@@ -1,0 +1,55 @@
+Response to PyCon Namibia Sponsorhip Request
+=============================================
+
+Request
+-------
+
+The original request came via email, the relevant excerpts are:
+
+> The sixth successive edition of PyCon Namibia https://na.pycon.org/ takes place
+> 18-20 February 2020, at the NamPower Convention Centre in Windhoek.
+
+
+> This year’s sponsorship page is at https://na.pycon.org/sponsorship/. A PDF with
+> the same information is attached.
+
+
+> The UK Python community has had a long association with PyCon Namibia and has
+> supported us since the beginning. Last year the UK Python Association sponsored
+> our event, and the activities and outcomes it helped support are detailed in our
+> report: https://na.pycon.org/2019/.
+
+
+> As always, PyCon Namibia will publish a full conference report after the event.
+> The event is covered by our well-publicised code of conduct
+> https://na.pycon.org/code-of-conduct/
+
+
+> The UK Python Association's support will help us cover basic costs of the
+> conference: venue hire, catering and our support for attendees whose financial
+> means are limited.
+
+
+> We would like to request a grant from the UK Python Association once more in the
+> amount of US$2000.
+
+Discussion
+----------
+
+The trustees consider that this request is a legitimate activity for the UKPA to
+support because:
+
+- Object 2 specifically indicates supporting overseas python events.
+- This is an event organised by a member of the UKPA which is covered by object
+1.b.
+
+The trustees consider that a level of US$2000 corresponds to a high proportion
+of the historical level of financial assistance made to PyCon UK, sponsorship
+packages and current funds. Thus, an amount equivalent to 1000 GBP is more
+appropriate.
+
+Decision
+--------
+
+The UKPA will request that the PyconUK Society Limited (PUKSL) directors make a
+payment to PyCon Namibia of 1000 GBP.
