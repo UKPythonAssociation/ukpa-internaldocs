@@ -1,10 +1,10 @@
-Response to PyCon Namibia Sponsorhip Request
-============================================
+Response to PyCon Namibia Sponsorship Request
+=============================================
 
 Request
 -------
 
-The original request came via email, the relevant excerpts are:
+The original request came via email. The relevant excerpts are:
 
 > The sixth successive edition of PyCon Namibia https://na.pycon.org/ takes place
 > 18-20 February 2020, at the NamPower Convention Centre in Windhoek.
