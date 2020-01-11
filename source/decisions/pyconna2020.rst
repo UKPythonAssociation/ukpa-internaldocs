@@ -41,7 +41,7 @@ support because:
 
 - Object 2 specifically indicates supporting overseas python events.
 - This is an event organised by a member of the UKPA which is covered by object
-1.b.
+  1.b.
 
 The trustees consider that a level of US$2000 corresponds to a high proportion
 of the historical level of financial assistance made to PyCon UK, sponsorship
