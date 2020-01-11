@@ -46,5 +46,5 @@ appropriate.
 Decision
 --------
 
-The UKPA will request that the PyconUK Society Limited (PUKSL) directors make a
+The UKPA will request that the PyCon UK Society Limited (PUKSL) directors make a
 payment to PyCon Namibia of 1000 GBP.
