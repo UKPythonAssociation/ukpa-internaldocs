@@ -6,32 +6,27 @@ Request
 
 The original request came via email. The relevant excerpts are:
 
-> The sixth successive edition of PyCon Namibia https://na.pycon.org/ takes place
-> 18-20 February 2020, at the NamPower Convention Centre in Windhoek.
+    The sixth successive edition of PyCon Namibia https://na.pycon.org/ takes place
+    18-20 February 2020, at the NamPower Convention Centre in Windhoek.
 
+    This year’s sponsorship page is at https://na.pycon.org/sponsorship/. A PDF with
+    the same information is attached.
 
-> This year’s sponsorship page is at https://na.pycon.org/sponsorship/. A PDF with
-> the same information is attached.
+    The UK Python community has had a long association with PyCon Namibia and has
+    supported us since the beginning. Last year the UK Python Association sponsored
+    our event, and the activities and outcomes it helped support are detailed in our
+    report: https://na.pycon.org/2019/.
 
+    As always, PyCon Namibia will publish a full conference report after the event.
+    The event is covered by our well-publicised code of conduct
+    https://na.pycon.org/code-of-conduct/
 
-> The UK Python community has had a long association with PyCon Namibia and has
-> supported us since the beginning. Last year the UK Python Association sponsored
-> our event, and the activities and outcomes it helped support are detailed in our
-> report: https://na.pycon.org/2019/.
+    The UK Python Association's support will help us cover basic costs of the
+    conference: venue hire, catering and our support for attendees whose financial
+    means are limited.
 
-
-> As always, PyCon Namibia will publish a full conference report after the event.
-> The event is covered by our well-publicised code of conduct
-> https://na.pycon.org/code-of-conduct/
-
-
-> The UK Python Association's support will help us cover basic costs of the
-> conference: venue hire, catering and our support for attendees whose financial
-> means are limited.
-
-
-> We would like to request a grant from the UK Python Association once more in the
-> amount of US$2000.
+    We would like to request a grant from the UK Python Association once more in the
+    amount of US$2000.
 
 Discussion
 ----------
