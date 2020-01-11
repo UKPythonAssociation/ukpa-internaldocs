@@ -39,7 +39,7 @@ Discussion
 The trustees consider that this request is a legitimate activity for the UKPA to
 support because:
 
-- Object 2 specifically indicates supporting overseas python events.
+- Object 2 specifically indicates supporting overseas Python events.
 - This is an event organised by a member of the UKPA which is covered by object
   1.b.
 
