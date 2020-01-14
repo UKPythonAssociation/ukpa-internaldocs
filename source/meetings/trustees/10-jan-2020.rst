@@ -1,0 +1,18 @@
+Trustees Meeting 13:00 10-Jan-2020
+==================================
+
+Held via an online video call.
+
+Present
+-------
+
+- Tania Allard
+- Owen Campbell
+- Kristian Glass
+- Vincent Knight
+- Cecilia Liao
+
+Decisions
+---------
+
+- :doc:`../../decisions/pyconna2020`

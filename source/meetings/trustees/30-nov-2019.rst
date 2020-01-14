@@ -1,0 +1,22 @@
+Trustees Meeting 10:00 30-Nov-2019
+==================================
+
+Held at Radcliffe Conference Centre, Warwick University Campus.
+
+Present
+-------
+
+- Owen Campbell
+- Kristian Glass (via video link)
+- Vincent Knight
+- David Spademan
+
+Decisions
+---------
+
+- :doc:`../../decisions/pylondinium`
+- Creation of :doc:`../../policies/expenses-policy`
+- Creation of :doc:`../../policies/financial-assistance-for-pyconuk`
+- Creation of :doc:`../../policies/john-pinner-award`
+- Creation of :doc:`../../policies/membership`
+- Creation of :doc:`../../policies/programme-selection-policy`

@@ -15,3 +15,5 @@ It is, therefore, necessary to establish the relationship between the two bodies
 Resolution
 ----------
 To agree that any UKPA trustee, who is not also a director of UKPATL, is empowered to sign the Cost Recovery Deed and Deed of Covenant described above on behalf of the UKPA.
+
+The decision to pass this resolution was taken in electronic form (via `Github <https://github.com/UKPythonAssociation/ukpa-internaldocs/pull/23>`_) according to section 17.2 of the UKPA constitution.
