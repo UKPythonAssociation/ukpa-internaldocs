@@ -11,6 +11,7 @@ People not eligible for the award:
 - The current John Pinner award chairperson
 - Current members of the John Pinner award committee
 - Current UKPA trustees
+- Current Directors of UKPA Trading Ltd.
 
 The award process:
 
