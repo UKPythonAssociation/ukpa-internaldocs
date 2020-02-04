@@ -5,3 +5,4 @@ Decisions
 
    ukpatl-deeds
    pylondinium
+   pyconna2020
