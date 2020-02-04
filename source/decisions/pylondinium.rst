@@ -1,6 +1,9 @@
 Response to PyLondinium Support Request
 =======================================
 
+This decision was taken at :doc:`../meetings/trustees/30-nov-2019` according to section
+17.1 of the UKPA Constitution.
+
 Request
 -------
 The organisers of the PyLondinium conference contacted the UKPA trustees to request support for their event.
