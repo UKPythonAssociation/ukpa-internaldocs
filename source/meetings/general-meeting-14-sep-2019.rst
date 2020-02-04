@@ -36,7 +36,7 @@ The proposal was accepted by a show of hands.
 
 Trustees
 --------
-Owen Campbell, as the longest serving elected trustee, resigned according to clauses 13.1.1 and 13.1.2 of the constitution.
+Owen Campbell, as the longest serving elected trustee, retired according to clauses 13.1.1 and 13.1.2 of the constitution.
 
 Since two further trustee resignations had occurred since the previous general meeting, there were thus three trustee vacancies.
 
