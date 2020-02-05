@@ -1,5 +1,5 @@
-UKPA Membership
-===============
+UKPA Membership Policy
+======================
 
 Classes of Membership
 ---------------------

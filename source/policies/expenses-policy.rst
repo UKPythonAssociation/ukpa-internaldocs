@@ -1,4 +1,4 @@
-Expenses policy
+Expenses Policy
 ===============
 
 The UKPA recognises that volunteers not only give freely of their time but are

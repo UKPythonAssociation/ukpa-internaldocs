@@ -16,7 +16,7 @@ Decisions
 
 - :doc:`../../decisions/pylondinium`
 - Creation of :doc:`../../policies/expenses-policy`
-- Creation of :doc:`../../policies/financial-assistance-for-pyconuk`
-- Creation of :doc:`../../policies/john-pinner-award`
-- Creation of :doc:`../../policies/membership`
-- Creation of :doc:`../../policies/programme-selection-policy`
+- Creation of :doc:`../../policies/pyconuk-financial-assistance-policy`
+- Creation of :doc:`../../policies/john-pinner-award-policy`
+- Creation of :doc:`../../policies/membership-policy`
+- Creation of :doc:`../../policies/pyconuk-programme-selection-policy`

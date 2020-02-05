@@ -1,5 +1,5 @@
-Financial Assistance for PyCon UK
-=================================
+PyCon UK Financial Assistance Policy
+====================================
 
 The goal of the Financial Assistance programme is to improve the quality of
 PyCon UK by:
