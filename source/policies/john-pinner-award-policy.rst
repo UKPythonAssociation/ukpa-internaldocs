@@ -1,5 +1,5 @@
-John Pinner award
-=================
+John Pinner Award Policy
+========================
 
 The John Pinner award is a yearly award given to an individual as recognition
 for their contribution to the UK python community.

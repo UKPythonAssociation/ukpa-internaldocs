@@ -3,8 +3,8 @@ Policies
 
 .. toctree::
 
-   membership
-   john-pinner-award
+   membership-policy
+   john-pinner-award-policy
    expenses-policy
-   financial-assistance-for-pyconuk
-   programme-selection-policy
+   pyconuk-financial-assistance-policy
+   pyconuk-programme-selection-policy
