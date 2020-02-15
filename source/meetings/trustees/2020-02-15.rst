@@ -20,4 +20,5 @@ Decisions
 - :doc:`../../decisions/2020-02-15-create-designated-fund-for-financial-aid`
 - :doc:`../../decisions/2020-02-15-modify-john-pinner-award-policy`
 - :doc:`../../decisions/2020-02-15-open-new-bank-account`
+- :doc:`../../decisions/2020-02-15-lawyers-and-accountants`
 - :doc:`../../policies/calling-of-meetings`
