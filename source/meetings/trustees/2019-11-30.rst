@@ -15,6 +15,7 @@ Decisions
 ---------
 
 - :doc:`../../decisions/2019-11-30-pylondinium`
+- :doc:`../../decisions/2019-11-30-ukpatl-deeds`
 - Creation of :doc:`../../policies/expenses-policy`
 - Creation of :doc:`../../policies/pyconuk-financial-assistance-policy`
 - Creation of :doc:`../../policies/john-pinner-award-policy`
