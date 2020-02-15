@@ -15,4 +15,4 @@ Present
 Decisions
 ---------
 
-- :doc:`../../decisions/pyconna2020`
+- :doc:`../../decisions/2020-01-10-pyconna2020`

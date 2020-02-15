@@ -14,7 +14,7 @@ Present
 Decisions
 ---------
 
-- :doc:`../../decisions/pylondinium`
+- :doc:`../../decisions/2019-11-30-pylondinium`
 - Creation of :doc:`../../policies/expenses-policy`
 - Creation of :doc:`../../policies/pyconuk-financial-assistance-policy`
 - Creation of :doc:`../../policies/john-pinner-award-policy`
