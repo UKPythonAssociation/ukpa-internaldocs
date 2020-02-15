@@ -1,7 +1,7 @@
 Response to PyCon Namibia Sponsorship Request
 =============================================
 
-This decision was taken at :doc:`../meetings/trustees/2019-11-30` according to section
+This decision was taken at :doc:`../meetings/trustees/2020-01-10` according to section
 17.1 of the UKPA Constitution.
 
 Request
