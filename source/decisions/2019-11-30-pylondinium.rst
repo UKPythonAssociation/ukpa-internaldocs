@@ -40,6 +40,6 @@ Update
 ------
 
 
-Following a discussion at :doc:`../meetings/trustees/15-feb-2020` we have been
+Following a discussion at :doc:`../meetings/trustees/2020-02-15` we have been
 informed that the UKPA is not a qualifying organisation to comply with the
 PyLondinium co-hosting agreement.
