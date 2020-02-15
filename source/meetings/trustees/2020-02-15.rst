@@ -21,5 +21,6 @@ Decisions
 - :doc:`../../decisions/2020-02-15-modify-john-pinner-award-policy`
 - :doc:`../../decisions/2020-02-15-open-new-bank-account`
 - :doc:`../../decisions/2020-02-15-lawyers-and-accountants`
+- :doc:`../../decisions/2020-02-15-add-policy-on-minors`
 - :doc:`../../policies/calling-of-meetings`
 - :doc:`../../policies/reserve-policy`
