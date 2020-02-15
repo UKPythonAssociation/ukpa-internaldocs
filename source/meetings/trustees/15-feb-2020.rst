@@ -1,0 +1,19 @@
+Trustees Meeting 09:00 15-Febn-2020
+===================================
+
+Held at Radcliffe Conference Centre, Warwick University Campus.
+
+Present
+-------
+
+- Owen Campbell
+- Kristian Glass (via video link)
+- Vincent Knight
+- David Spademan
+- Tania Allard
+- Cecilia Liao
+
+Decisions
+---------
+
+- :doc:`../../decisions/2020-02-15-john-pinner-award-chair`
