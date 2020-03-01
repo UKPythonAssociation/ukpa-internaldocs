@@ -16,6 +16,7 @@ Anything we'd like to publicise or announce belongs on our main website.
    :maxdepth: 2
 
    information-for-trustees
+   saas
    policies/index
    meetings/index
    decisions/index
