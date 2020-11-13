@@ -3,5 +3,6 @@ Decisions
 
 .. toctree::
    :glob:
+   :reversed:
 
    *
