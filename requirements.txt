@@ -4,7 +4,7 @@ certifi==2022.6.15.2
 chardet==4.0.0
 docutils==0.16
 idna==2.10
-imagesize==1.2.0
+imagesize==1.4.1
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 packaging==21.3
