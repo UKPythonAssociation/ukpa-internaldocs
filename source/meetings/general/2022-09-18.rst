@@ -1,7 +1,7 @@
 General Meeting 09:00 18-Sep-2022
 =================================
 
-Held at City Hall, Cardiff during PyCon UK 2022.
+Held at City Hall, Cardiff during PyCon UK 2022 and chaired by Owen Campbell.
 A video of the meeting is available on the `PyCon UK YouTube Channel <https://www.youtube.com/watch?v=5JeO7nToajk>`_.
 
 Trustees Present
