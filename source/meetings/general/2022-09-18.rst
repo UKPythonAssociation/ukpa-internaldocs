@@ -6,11 +6,11 @@ A video of the meeting is available on the `PyCon UK YouTube Channel <https://ww
 
 Trustees Present
 ----------------
-Ann Barr, Owen Campbell, Vincent Knight 
+Ann Barr, Owen Campbell, Vincent Knight, Gail Ollis
 
 Apologies
 ---------
-Tania Allard, Kristian Glass, Gail Ollis
+Tania Allard, Kristian Glass
 
 Report
 ------
