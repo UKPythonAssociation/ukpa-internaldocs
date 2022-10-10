@@ -1,0 +1,34 @@
+General Meeting 09:00 18-Sep-2022
+=================================
+
+Held at City Hall, Cardiff during PyCon UK 2022 and chaired by Owen Campbell.
+A video of the meeting is available on the `PyCon UK YouTube Channel <https://www.youtube.com/watch?v=5JeO7nToajk>`_.
+
+Trustees Present
+----------------
+Ann Barr, Owen Campbell, Vincent Knight, Gail Ollis
+
+Apologies
+---------
+Tania Allard, Kristian Glass
+
+Report
+------
+Owen Campbell presented a brief report the state of the UK Python Association:
+
+* The COVID-19 pandemic had a significant effect on the organisation causing the 2020 and 2021 conferences to be cancelled and vastly reducing the number of volunteers available to organise the 2022 event.
+* The decision to proceed with the 2022 conference was taken carefully with the focus on ensuring that the scope was within the capability and availability of the volunteers still in place.
+* The intention for the coming year is to recruit volunteers to the organising team to and to deliver a fuller event in 2023.
+
+Trustees
+--------
+Owen Campbell and Kristian Glass, as the longest serving elected trustees, retired according to clauses 13.1.1 and 13.1.2 of the constitution.
+
+Since the vacancy arising from the 2021 General Meeting had not been filled, there were thus three trustee vacancies.
+
+Two nominations for election as a trustee had been received from:
+
+* Owen Campbell
+* Kristian Glass
+
+Both were elected by a show of hands.
