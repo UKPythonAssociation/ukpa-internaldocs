@@ -4,7 +4,7 @@ Update to calling of meetings policy
 Resolution
 ----------
 
-The decision was made to modify :ref:`calling_of_meetings` to specify that the
+The decision was made to modify :doc:`../policies/calling-of-meetings` to specify that the
 notice period would now be 14 days and a second method of notification was no
 longer prescribed.
 

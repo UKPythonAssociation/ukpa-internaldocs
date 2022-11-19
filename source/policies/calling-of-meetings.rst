@@ -1,5 +1,3 @@
-.. calling_of_meetings::
-
 Calling of meetings
 ===================
 
