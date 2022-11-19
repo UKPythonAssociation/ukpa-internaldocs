@@ -1,0 +1,28 @@
+Trustees Meeting 10:00 19-Nov-2022
+==================================
+
+Held at Scarman Conference Centre, Warwick University Campus.
+
+Present
+-------
+
+- Owen Campbell
+- Kristian Glass (via video link)
+- Vincent Knight
+- Ann Barr
+- Gail Ollis
+
+Guest:
+
+- Becky Smith
+
+Decisions
+---------
+
+- :doc:`../../decisions/2019-11-30-pylondinium`
+- :doc:`../../decisions/2019-11-30-ukpatl-deeds`
+- Creation of :doc:`../../policies/expenses-policy`
+- Creation of :doc:`../../policies/pyconuk-financial-assistance-policy`
+- Creation of :doc:`../../policies/john-pinner-award-policy`
+- Creation of :doc:`../../policies/membership-policy`
+- Creation of :doc:`../../policies/pyconuk-programme-selection-policy`
