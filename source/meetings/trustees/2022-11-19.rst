@@ -19,5 +19,5 @@ Guest:
 Decisions
 ---------
 
-- :doc:`../../decisions/2022-11-19-update-meetings-notice.rst`
-- Creation of :doc:`../../policies/expenses-policy`
+- :doc:`../../decisions/2022-11-19-update-meetings-notice`
+- :doc:`../../decisions/2022-11-19-djangocon-europe-2023`
