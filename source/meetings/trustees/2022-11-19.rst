@@ -27,3 +27,4 @@ Decisions
 - :doc:`../../decisions/2022-11-19-djangocon-europe-2023`
 - :doc:`../../decisions/2022-11-19-decide-on-pyconuk-accommodation-policy-for-conference`
 - :doc:`../../decisions/2022-11-19-treasurer-and-chair`
+- :doc:`../../decisions/2022-11-19-appoint-becky-smith-as-trustee`
