@@ -1,0 +1,29 @@
+Trustees Meeting 10:00 19-Nov-2022
+==================================
+
+Held at Scarman Conference Centre, Warwick University Campus.
+
+Present
+-------
+
+- Owen Campbell
+- Vincent Knight
+- Ann Barr
+- Gail Ollis
+
+Guest:
+
+- Becky Smith
+
+Apologies
+---------
+
+- Kristian Glass
+
+Decisions
+---------
+
+- :doc:`../../decisions/2022-11-19-update-meetings-notice`
+- :doc:`../../decisions/2022-11-19-djangocon-europe-2023`
+- :doc:`../../decisions/2022-11-19-decide-on-pyconuk-accommodation-policy-for-conference`
+- :doc:`../../decisions/2022-11-19-treasurer-and-chair`
