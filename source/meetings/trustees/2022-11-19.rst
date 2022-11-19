@@ -7,7 +7,6 @@ Present
 -------
 
 - Owen Campbell
-- Kristian Glass (via video link)
 - Vincent Knight
 - Ann Barr
 - Gail Ollis
@@ -15,6 +14,11 @@ Present
 Guest:
 
 - Becky Smith
+
+Apologies
+---------
+
+- Kristian Glass
 
 Decisions
 ---------
