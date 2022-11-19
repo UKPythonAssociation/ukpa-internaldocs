@@ -21,3 +21,4 @@ Decisions
 
 - :doc:`../../decisions/2022-11-19-update-meetings-notice`
 - :doc:`../../decisions/2022-11-19-djangocon-europe-2023`
+- :doc:`../../decisions/2022-11-19-decide-on-uk-accommodation-policy-for-conference`
