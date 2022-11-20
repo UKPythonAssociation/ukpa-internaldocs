@@ -22,7 +22,7 @@ Agreement of decisions
 
 For a decision to be agreed the following has to occur:
 
-1. A pull request on the :ref:`ukpa internaldocs github repository
+1. A pull request on the `ukpa internaldocs github repository
    <https://github.com/UKPythonAssociation/ukpa-internaldocs>`_ must be opened
    with the modifications recorded in a :code:`source/decisions/<file.rst>`.
 2. This pull request should be labeled with either :code:`Trustee Meeting
