@@ -31,3 +31,13 @@ The trustees decided that the UKPA would support DjangoCon Europe in the manner 
   handled. This needs to be agreed before proceeding.
 * No agreement has yet been reached about how financial assistance would be
   handled. This needs to be agreed before proceeding.
+
+
+Follow Up 19-Dec-2022
+---------------------
+
+After further discussion, the trustees have decided that all the requirements have been met and that support for DjangoCon Europe will go ahead.
+
+In particular, the trustees have had sight of the event budget and have agreed to its content and have seen the correspondence with the Django Software Foundation where they agreed to forego any claim to any financial surplus the event might generate.
+
+Financial assistance will be handled by the DjangoCon Europe team operating within their stated budget and the UKPA treasurer will make any necessary payments.
