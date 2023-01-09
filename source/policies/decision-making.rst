@@ -7,8 +7,8 @@ transparency.
 Decisions
 ---------
 
-When a decision is made this is to denoted in an :code:`rst` file in the
-:code:`ukpa-internaldocs/source/decision/` subdirectory.
+When a decision is made this is denoted in an :code:`rst` file in the
+:code:`ukpa-internaldocs/source/decisions/` subdirectory.
 
 Examples of these include:
 
@@ -49,9 +49,9 @@ All meetings of the UKPA are recorded in an :code:`rst` file in the
 :code:`ukpa-internaldocs/source/meetings/` subdirectory:
 
 - General meetings are recorded in
-  :code:`ukpa-internaldocs/source/meeting/general/`
+  :code:`ukpa-internaldocs/source/meetings/general/`
 - Trustee meetings are recorded in
-  :code:`ukpa-internaldocs/source/meeting/general/`
+  :code:`ukpa-internaldocs/source/meetings/general/`
 
 Records of meetings should include:
 
