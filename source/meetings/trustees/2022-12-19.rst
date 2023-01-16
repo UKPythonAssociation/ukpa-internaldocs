@@ -1,0 +1,17 @@
+Trustees Meeting 21:00 19-Dec-2022
+==================================
+
+Held online via video call
+
+Present
+-------
+
+- Ann Barr
+- Owen Campbell
+- Kristian Glass
+- Becky Smith
+
+Decisions
+---------
+
+- :doc:`../../decisions/2022-11-19-djangocon-europe-2023`
