@@ -10,3 +10,16 @@ Present
 - Kristian Glass
 - Becky Smith
 - Vince Knight
+
+Apologies
+---------
+
+Apologies received and accepted from:
+
+- Ann Barr
+- Gail Ollis
+
+Decisions
+---------
+
+- :doc:`../../decisions/2023-03-04-invocation-of-clause-15.1.2.rst`
