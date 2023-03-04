@@ -27,3 +27,4 @@ Decisions
 - :doc:`../../decisions/2023-03-04-adopt-policy-on-minors`
 - Creation of :doc:`../../policies/minors`
 - Creation of :doc:`../../policies/trustee-ballot-policy`
+- Update of :doc:`../../policies/reserve-policy`
