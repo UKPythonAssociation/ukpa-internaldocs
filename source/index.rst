@@ -22,6 +22,7 @@ Anything we'd like to publicise or announce belongs on our main website.
    decisions/index
    reports/index
    accounts/index
+   process/index
 
 
 
