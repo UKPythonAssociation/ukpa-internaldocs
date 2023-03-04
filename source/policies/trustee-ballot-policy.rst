@@ -5,6 +5,14 @@ Section 13.1 of our constitution requires that one-third of the elected trustees
 retire at each Annual General Meeting and that the members have the opportunity to
 fill the resulting vacancies (and others that may exist).
 
+Nomination
+----------
+
+Nomination to stand for election must be received by the trustees at least 30
+days prior to the date for the election.
+
+The trustees have no obligation to provide publicity for any candidate.
+
 In the event that there are the same number of candidates (or fewer) than vacancies
 available, then the election of those candidates shall be via `acclamation <https://en.wikipedia.org/wiki/Acclamation>`_
 
@@ -32,7 +40,7 @@ Election via Ballot
 - Ballot papers are collected from members and held securely until counting commences.
 - At counting, ballot papers are grouped by the combination of votes cast and the total number in
   each group recorded.
-- The counts shall be made available to any member on request.
+- The counts will be recorded according to the :doc:`../../policies/decision-making`.
 - From the number in each group, the number of votes for each candidate is then calculated
   and the candidate with the highest total is duly elected.
 - For those groups which include a vote for the winning candidate, any remaining votes count for one half
