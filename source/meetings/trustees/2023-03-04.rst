@@ -24,4 +24,6 @@ Decisions
 
 - :doc:`../../decisions/2023-03-04-invocation-of-clause-15.1.2`
 - :doc:`../../decisions/2023-03-04-approval-of-conference-director-recommendation-for-accomodation`
+- :doc:`../../decisions/2023-03-04-adopt-policy-on-minors`
+- Creation of :doc:`../../policies/minors`
 - Creation of :doc:`../../policies/trustee-ballot-policy`
