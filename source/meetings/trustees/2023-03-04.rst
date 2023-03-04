@@ -23,3 +23,4 @@ Decisions
 ---------
 
 - :doc:`../../decisions/2023-03-04-invocation-of-clause-15.1.2`
+- Creation of :doc:`../../policies/trustee-ballot-policy`
