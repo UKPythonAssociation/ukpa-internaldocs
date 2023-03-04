@@ -22,4 +22,4 @@ Apologies received and accepted from:
 Decisions
 ---------
 
-- :doc:`../../decisions/2023-03-04-invocation-of-clause-15.1.2.rst`
+- :doc:`../../decisions/2023-03-04-invocation-of-clause-15.1.2`
