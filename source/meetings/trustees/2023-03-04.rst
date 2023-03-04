@@ -28,3 +28,4 @@ Decisions
 - Creation of :doc:`../../policies/minors`
 - Creation of :doc:`../../policies/trustee-ballot-policy`
 - Update of :doc:`../../policies/reserve-policy`
+- Creation of :doc:`../../policies/uk.python.org.email-mailbox-policy`
