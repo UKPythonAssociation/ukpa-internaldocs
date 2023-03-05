@@ -13,3 +13,8 @@ The UKPA uses a range of software as a service (SaaS):
     * https://github.com/ukpythonassociation is a regular GitHub account used solely for UKPA-specific purposes like storing policies, the constitution, meeting minutes and the like
 * `ReadTheDocs <https://readthedocs.org/>`_
     * https://readthedocs.org/projects/ukpa-internaldocs/ - this site!
+* `Netlify <https://www.netlify.com/>`_
+    * Hosting for https://uk.python.org/
+* `Discord <https://discord.com/>`_
+* `Anvil <https://anvil.works/>`_
+* `Donation Manager <https://www.donationmanager.co.uk/>`_
