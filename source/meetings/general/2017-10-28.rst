@@ -1,0 +1,26 @@
+General Meeting 17:30 28-Oct-2017
+=================================
+
+Held at City Hall, Cardiff during PyCon UK 2017 and chaired by Van Linden, director and counsel for the Python Software Foundation.
+A video of the meeting is available on the `PyCon UK YouTube Channel <https://www.youtube.com/watch?v=f4ZWRzFpkO0>`_.
+
+Trustees Present
+----------------
+Owen Campbell, Kristian Glass, Peter Inglesby
+
+
+Trustees
+--------
+The founding trustees, Owen Campbell, Kristian Glass and Peter Inglesby resigned.
+
+Six nominations for election as a trustee were received from:
+
+* Owen Campbell
+* Kristian Glass
+* Peter Inglesby
+* Kirk Northrop
+* Chloe Parkes
+* Nicholas Tollervey
+
+Since the constitution allows for a maximum of six elected trustees, all six above were
+elected by a vote of acclamation.
