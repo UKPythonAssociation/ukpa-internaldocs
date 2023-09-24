@@ -18,7 +18,7 @@ achievements for the year:
 - PyCon UK ran again in 2022 after being postponed during the pandemic.
   This is a notable achievement given the difficulties related to the pandemic.
 - The UKPA owns UKPA Trading Limited and for the first time the company was
-  ready for the conference. There is still some more progress to be made:
+  operationally ready for the conference. There is still some more progress to be made:
   surplus funds from another entity need to be moved.
 - The UKPA provided business and operational support for the running of DjangoCon Europe. This is the first event
   that was not PyCon UK that was supported by the UKPA in this fashion.
