@@ -1,5 +1,5 @@
-Appoint Becky Smith as Trustee
-==============================
+2022-11-19 Appoint Becky Smith as Trustee
+=========================================
 
 Resolution
 ----------

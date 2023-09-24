@@ -1,5 +1,5 @@
-Decision on accommodation policy for conference
-===============================================
+2022-11-19 Decision on accommodation policy for conference
+==========================================================
 
 Resolution
 ----------

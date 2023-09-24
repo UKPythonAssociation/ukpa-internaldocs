@@ -1,5 +1,5 @@
-Name chair and treasurer of UKPA
-================================
+2022-11-19 Name chair and treasurer of UKPA
+===========================================
 
 Resolution
 ----------

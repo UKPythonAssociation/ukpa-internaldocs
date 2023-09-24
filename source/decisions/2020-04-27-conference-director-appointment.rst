@@ -1,5 +1,5 @@
-Resolution to Appoint the Conference Director
-=============================================
+2020-04-27 Resolution to Appoint the Conference Director
+========================================================
 
 Resolution
 ----------

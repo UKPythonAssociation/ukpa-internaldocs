@@ -1,5 +1,5 @@
-Update to calling of meetings policy
-====================================
+2022-11-19 Update to calling of meetings policy
+===============================================
 
 Resolution
 ----------

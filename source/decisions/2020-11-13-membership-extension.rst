@@ -1,5 +1,5 @@
-Resolution to Extend 2019 Membership
-====================================
+2020-11-13 Resolution to Extend 2019 Membership
+===============================================
 
 Resolution
 ----------
