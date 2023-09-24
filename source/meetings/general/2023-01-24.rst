@@ -2,6 +2,7 @@ General Meeting 09:00 18-Sep-2023
 =================================
 
 Held at City Hall, Cardiff during PyCon UK 2023 and chaired by Owen Campbell.
+A video of the meeting is available on the `PyCon UK YouTube Channel <https://www.youtube.com/watch?v=FuaJ1-b7LOc>`_.
 
 Trustees Present
 ----------------
