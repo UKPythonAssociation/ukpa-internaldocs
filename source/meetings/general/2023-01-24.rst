@@ -1,0 +1,43 @@
+General Meeting 09:00 18-Sep-2023
+=================================
+
+Held at City Hall, Cardiff during PyCon UK 2024 and chaired by Owen Campbell.
+
+Trustees Present
+----------------
+
+Kristian Glass, Becky Smith, Owen Campbell, Vince Knight, Ann Barr
+
+
+Report
+------
+
+Owen Campbell presented the report to the members. Owen presented the
+achievements for the year:
+
+- PyCon UK ran again in 2022 after being postponed during the pandemic.
+  This is a notable achievement given the difficulties related to the pandemic.
+- The UKPA owns UKPA Trading Limited and for the first time the company was
+  ready for the conference. There is still some more progress to be made:
+  surplus funds from another entity need to be moved.
+- The UKPA supported the running of DjangoCon Europe. This is the first event
+  that was not PyCon UK that was supported by the UKPA.
+
+Trustees
+--------
+
+Becky Smith has to retire as a trustee according to clause
+
+.. TODO: Obtain clause number
+
+of the constitution.
+
+Vince Knight has to retire as a trustee according to clause 
+13.1.1 and 13.1.2 of the constitution.
+
+
+Vince Knight and Becky Smith have put themselves forward for election as a
+trustee.
+
+- Vince Knight was elected by a show of hands.
+- Becky Smith was elected by a show of hands.
