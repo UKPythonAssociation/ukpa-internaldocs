@@ -1,7 +1,7 @@
 General Meeting 09:00 18-Sep-2023
 =================================
 
-Held at City Hall, Cardiff during PyCon UK 2024 and chaired by Owen Campbell.
+Held at City Hall, Cardiff during PyCon UK 2023 and chaired by Owen Campbell.
 
 Trustees Present
 ----------------
