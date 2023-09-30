@@ -1,5 +1,5 @@
-Approval of PyCon UK director recommendation for conference accommodation
-=========================================================================
+2023-03-04 Approval of PyCon UK director recommendation for conference accommodation
+====================================================================================
 
 Resolution
 ----------

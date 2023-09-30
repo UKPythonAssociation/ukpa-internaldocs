@@ -1,5 +1,5 @@
-Policy on minors
-================
+2023-03-04 Policy on minors
+===========================
 
 Decision
 --------

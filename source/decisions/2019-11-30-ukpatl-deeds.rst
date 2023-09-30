@@ -1,5 +1,5 @@
-Resolution to Sign UKPA Trading Ltd Deeds
-=========================================
+2019-11-30 Resolution to Sign UKPA Trading Ltd Deeds
+====================================================
 
 Background
 ----------
