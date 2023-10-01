@@ -6,6 +6,10 @@ build:
   os: "ubuntu-22.04"
   tools:
     python: "3.11"
+  jobs:
+    pre_install:
+      - "pip install pipenv"
+      - "pipenv requirements > requirements.txt"
 
 sphinx:
   builder: "dirhtml"
