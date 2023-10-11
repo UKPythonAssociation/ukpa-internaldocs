@@ -1,5 +1,5 @@
-2023-03-04 Support of DjangoCon Africa 2023
-===============================================
+2023-09-25 Resolution to Support of DjangoCon Africa 2023
+=========================================================
 
 Background
 ----------
@@ -11,8 +11,8 @@ Africa Chair contacted the trustees by email to request monetary support for the
 Resolution
 ----------
 
-The decision was made to support DjangoCon Africa 2023 to a value equivalent to 
-their Silver level sponsorship tier ($2250 per https://2023.djangocon.africa/static/documents/djcafrica23prospectus.pdf).
+To support DjangoCon Africa 2023 to a value equivalent to their Silver level sponsorship tier
+($2250 per https://2023.djangocon.africa/static/documents/djcafrica23prospectus.pdf).
 
-The exact mechanism of doing so (donation, grant, sponsorship) is considered an 
-implementation detail to be determined by UKPATL.
+
+The decision to pass this resolution was taken in electronic form (via `GitHub <https://github.com/UKPythonAssociation/ukpa-internaldocs/pull/358>`_) according to section 17.2 of `the UKPA Constitution <https://github.com/UKPythonAssociation/ukpa-constitution/releases/latest>`_.
