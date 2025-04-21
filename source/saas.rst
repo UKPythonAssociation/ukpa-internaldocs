@@ -18,3 +18,9 @@ The UKPA uses a range of software as a service (SaaS):
 * `Discord <https://discord.com/>`_
 * `Anvil <https://anvil.works/>`_
 * `Donation Manager <https://www.donationmanager.co.uk/>`_
+* `DNSimple <https://dnsimple.com/>`_
+
+    * We use this for registration and DNS for ``pyconuk.org``
+* `redirect.pizza <https://redirect.pizza/>`_
+
+    * We use this for redirecting from ``pyconuk.org`` to ``$year.pyconuk.org`` (DNSimple offers a redirect service, but does not support HTTPS redirects at our current account tier)
