@@ -1,7 +1,7 @@
 Google
 ======
 
-We have a Google Workspace.
+:doc:`We have a Google Workspace <../saas>`.
 Some administrative notes:
 
 Google Drive
@@ -15,3 +15,16 @@ Google Drive
 
         * The "UKPA Trustees" group is a member of this group
         * Other membership needs to be manually managed
+
+Change of Trustee Checklist
+---------------------------
+
+(See :doc:`change-of-trustee-checklist` for the full list, this is Google-specific)
+
+* Users (https://admin.google.com/ac/users?hl=en)
+
+    * Add/suspend their user as appropriate
+
+* Groups (https://admin.google.com/ac/groups?hl=en)
+
+    * Add/remove them to/from the "UKPA Trustees" Group as appropriate
