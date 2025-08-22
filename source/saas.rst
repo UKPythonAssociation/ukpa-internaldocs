@@ -5,7 +5,8 @@ The UKPA uses a range of software as a service (SaaS):
 
 * `G Suite for Nonprofits <https://www.google.com/nonprofits/offerings/apps-for-nonprofits/>`_
 
-	* We use this for Gmail (for uk.python.org), Calendar, Drive, Docs, Forms and more
+    * We use this for Gmail (for uk.python.org), Calendar, Drive, Docs, Forms and more
+    * See :doc:`process/google` for administrative notes
 * `Slack <https://slack.com/>`_
 
     * We use this for the "PyCon UK Organisers" Slack org, including the Trustees channel

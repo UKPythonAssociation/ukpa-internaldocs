@@ -1,7 +1,7 @@
 Google
 ======
 
-We have a Google Workspace.
+:doc:`We have a Google Workspace <../saas>`.
 Some administrative notes:
 
 Google Drive
