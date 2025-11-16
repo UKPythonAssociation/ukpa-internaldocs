@@ -29,7 +29,7 @@ annual report and accounts for the year:
 - The UKPA supported the Python in Education Day in Oxford
 - £6639.68 is held in the UKPA's bank account, the majority of funds being held
   by a combination of the UKPA's wholly owned trading subsidiary, the UKPA Trading
-  Limited, or PyCon UK Society Limited, the previous entity which is in the proces of
+  Limited, and PyCon UK Society Limited, the previous entity which is in the proces of
   being wrapped up
 
 
