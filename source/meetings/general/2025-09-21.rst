@@ -27,10 +27,10 @@ annual report and accounts for the year:
 
 - PyCon UK did not run in 2024 due to logistics around venues
 - The UKPA supported the Python in Education Day in Oxford
-- £6639.68 is held in the UKPA's bank account, the majority of funds being held
-  by a combination of the UKPA's wholly owned trading subsidiary, the UKPA Trading
-  Limited, and PyCon UK Society Limited, the previous entity which is in the proces of
-  being wrapped up
+- The UKPA holds £6639.68 in its bank account
+- Funds from this year's conference are held by the UKPA's wholly owned trading subsidiary, the UKPA Trading
+  Limited
+- Funds from previous conferences are held by PyCon UK Society Limited, the previous entity, which is in the process of being wound down and its assets transferred over
 
 
 Trustees
