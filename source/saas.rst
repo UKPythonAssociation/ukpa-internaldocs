@@ -28,8 +28,8 @@ The UKPA uses a range of software as a service (SaaS):
     * We use this for registration and DNS for ``pyconuk.org``
 
 * Social Media accounts 
-    * `Twttter (UKPA) <https://twitter.com/ukpython>`_
-    * `Twttter (PyCon UK) <https://twitter.com/pyconuk>`_
+    * `Twitter (UKPA) <https://twitter.com/ukpython>`_
+    * `Twitter (PyCon UK) <https://twitter.com/pyconuk>`_
     * `LinkedIn (UKPA) <https://www.linkedin.com/company/uk-python-association/>`_
     * `LinkedIn (PyCon UK) <https://www.linkedin.com/company/pycon-uk/>`_
     * `Bluesky (PyCon UK) <https://bsky.app/profile/pyconuk.org>`_
