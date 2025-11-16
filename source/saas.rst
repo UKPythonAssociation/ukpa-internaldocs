@@ -9,7 +9,6 @@ The UKPA uses a range of software as a service (SaaS):
     * See :doc:`process/google` for administrative notes
 * `Slack <https://slack.com/>`_
 
-    * We use this for the "PyCon UK Organisers" Slack org, including the Trustees channel
 * `GitHub <https://github.com>`_
 
     * We have two GitHub accounts
@@ -27,6 +26,15 @@ The UKPA uses a range of software as a service (SaaS):
 * `DNSimple <https://dnsimple.com/>`_
 
     * We use this for registration and DNS for ``pyconuk.org``
+
+* Social Media accounts 
+    * `Twttter (UKPA) <https://twitter.com/ukpython>`_
+    * `Twttter (PyCon UK) <https://twitter.com/pyconuk>`_
+    * `LinkedIn (UKPA) <https://www.linkedin.com/company/uk-python-association/>`_
+    * `LinkedIn (PyCon UK) <https://www.linkedin.com/company/pycon-uk/>`_
+    * `Bluesky (PyCon UK) <https://bsky.app/profile/pyconuk.org>`_
+    * `Mastodon (PyCon UK) <https://fosstodon.org/@PyConUK>`_
+
 * `redirect.pizza <https://redirect.pizza/>`_
 
     * We use this for redirecting from ``pyconuk.org`` to ``$year.pyconuk.org`` (DNSimple offers a redirect service, but does not support HTTPS redirects at our current account tier)
