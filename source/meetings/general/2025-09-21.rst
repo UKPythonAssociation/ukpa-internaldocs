@@ -1,0 +1,49 @@
+General Meeting 10:15 21-Sep-2025
+=================================
+
+Held at Contact Theatre, Manchester during PyCon UK 2025 and chaired by Kristian Glass.
+A video of the meeting is available on the `PyCon UK YouTube Channel <https://youtu.be/X3y0bJo3ujE?si=Mvluai0wfTl4KxGo>`_.
+
+
+Trustees Present
+----------------
+
+- Becky Smith
+- Daniele Procida
+- Kristian Glass
+
+
+Apologies
+---------
+- Owen Campbell
+
+
+Report
+------
+
+Kristian Glass presented the report to the members. Kristian presented the
+annual report and accounts for the year:
+
+- PyCon UK did not run in 2024 due to logistics around venues
+- The UKPA supported the Python in Education Day in Oxford
+- £6639.68 is held in the UKPA's bank account, the majority of funds being held
+  by a combination of the UKPA's wholly owned trading subsidiary, the UKPA Trading
+  Limited, or PyCon UK Society Limited, the previous entity which is in the proces of
+  being wrapped up
+
+
+Trustees
+--------
+
+Daniele Procida's appointment as a trustee has concluded according to clauses 13.1.4 and 13.1.5 of
+the constitution.
+
+Owen Campbell has to retire as a trustee according to clauses 
+13.1.1 and 13.1.2 of the constitution.
+
+Owen Campbell, Adam Turner and Providence Onyenekwe have put themselves forward for election as a
+trustee.
+
+- Owen Campbell was elected by a show of hands.
+- Adam Turner was elected by a show of hands.
+- Providence Onyenekwe was elected by a show of hands.
