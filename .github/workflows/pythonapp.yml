@@ -2,6 +2,9 @@ name: Sphinx site
 
 on: [push]
 
+env:
+  UV_LOCKED: 1
+
 jobs:
   build:
 
@@ -9,17 +12,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Set up Python 3.11
-      uses: actions/setup-python@v1
+    - uses: astral-sh/setup-uv@v7
       with:
-        python-version: 3.11
-        cache: "pipenv"
-    - name: Install Pipenv
-      run: |
-        curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-    - name: Install dependencies
-      run: |
-        pipenv install
+        enable-cache: true
     - name: Build
       run: |
-        pipenv run make html dirhtml
+        make html dirhtml
