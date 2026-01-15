@@ -9,6 +9,7 @@ as we are not a company and make under £25,000 per year, we may choose between 
 
 We currently prepare Receipts and Payments accounts for simplicity.
 
+* :download:`20251228 - UKPA Receipts and Payments Accounts.pdf`
 * :download:`20241118 - UKPA Receipts and Payments Accounts.pdf`
 * :download:`20231228 - UKPA Receipts and Payments Accounts.pdf`
 * :download:`20221211 - UKPA Receipts and Payments Accounts.pdf`
